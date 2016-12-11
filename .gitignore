@@ -2,7 +2,7 @@
 /.idea/
 /build/
 /dist/
-/src/json_cfg.egg-info/
+/src/*.egg-info/
 
 /README.html
 /CHANGES.html
