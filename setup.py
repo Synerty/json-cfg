@@ -30,7 +30,7 @@ with codecs.open(os.path.join(script_dir, 'README.rst'), 'r', 'utf8') as f:
 
 
 setup(
-    name='json-cfg',
+    name='json-cfg-rw',
     version=find_version('src', 'jsoncfg', '__init__.py'),
     description='JSON config file parser with extended syntax (e.g.: comments), '
                 'line/column numbers in error messages, etc...',
